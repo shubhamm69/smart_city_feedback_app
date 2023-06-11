@@ -4,38 +4,29 @@ The goal of this Flutter app is to facilitate community engagement and participa
 
 Features:
 
-1) User Registration and Authentication:
-
-2) Users can create accounts and authenticate themselves to access the app's features.
+1) User Registration and Authentication: Users can create accounts and authenticate themselves to access the app's features.
 User authentication ensures that only registered users can contribute to the community discussions.
-Forum for Smart City Developments:
 
-3) The app provides a forum where recent smart city developments are posted.
+2) Forum for Smart City Developments: The app provides a forum where recent smart city developments are posted.
 Users can view and browse through the posted projects and initiatives.
-Upvoting, Downvoting, and Commenting:
 
-4) Users can upvote or downvote the smart city developments to express their opinions.
+3) Upvoting, Downvoting, and Commenting: Users can upvote or downvote the smart city developments to express their opinions.
 The upvoting and downvoting system allows the community to collectively prioritize and evaluate different projects.
 Users can also leave comments to provide additional feedback or suggestions on the developments.
-User Profiles:
 
-5) Each user has a profile that displays their basic information and activity within the app.
+4) User Profiles: Each user has a profile that displays their basic information and activity within the app.
 User profiles may include details such as name, email, profile picture, and a summary of their contributions.
-Notifications and Updates:
 
-6) Users can receive notifications and updates regarding new developments, comments, and replies.
+5) Notifications and Updates: Users can receive notifications and updates regarding new developments, comments, and replies.
 Push notifications or email notifications can be implemented to keep users informed about the latest activities in the community.
-Search and Filtering:
 
-7) The app provides search and filtering capabilities to help users find specific projects or discussions of interest.
+6) Search and Filtering: The app provides search and filtering capabilities to help users find specific projects or discussions of interest.
 Users can search by keywords, categories, or tags to locate relevant content efficiently.
-User Feedback Submission:
 
-8) Users can submit their own feedback and ideas for smart city development projects.
+7) User Feedback Submission: Users can submit their own feedback and ideas for smart city development projects.
 The app allows users to create new posts or provide suggestions on existing projects, fostering active participation and collaboration.
-Administrative Dashboard:
 
-9) The app includes an administrative dashboard for town officials or moderators to manage and oversee the community.
+8) Administrative Dashboard: The app includes an administrative dashboard for town officials or moderators to manage and oversee the community.
 The dashboard provides tools to review and moderate posts, manage user accounts, and analyze community engagement metrics.
 
 By providing a platform for citizen engagement and feedback, this Flutter app empowers the community to actively participate in the decision-making process for smart city development. It promotes transparency, inclusivity, and collaboration, enabling a collective effort towards creating a sustainable and innovative town.
